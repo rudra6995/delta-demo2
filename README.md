@@ -1,3 +1,8 @@
 # delta-demo2
-same as demo 
-There is no chnages in file.
+This is a demo for Git &amp; Github class.
+
+# Teacher
+Mr Rudra
+
+# Student
+Divyanshi 
